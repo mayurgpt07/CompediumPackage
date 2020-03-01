@@ -2,6 +2,7 @@
 # CompediumPackage
 
 <!-- badges: start -->
+[![R build status](https://github.com/mayurgpt07/CompediumPackage/workflows/R-CMD-check/badge.svg)](https://github.com/mayurgpt07/CompediumPackage/actions)
 <!-- badges: end -->
 
 The goal of CompediumPackage is to ...
