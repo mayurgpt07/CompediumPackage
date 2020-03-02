@@ -25,5 +25,5 @@ plus_n(2,3) #5
 multiply_n(2,3) #6
 ```
 
-## Code of Conduct
+## Code of Conduct (Contributing)
 Please note that the 'CompediumPackage' project is released with a [Contributor Code of Conduct](https://github.com/mayurgpt07/CompediumPackage/blob/master/CODE_OF_CONDUCT.md). By contributing to this project, you agree to abide by its terms.
