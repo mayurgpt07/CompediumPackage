@@ -1,15 +1,14 @@
 Package: CompediumPackage
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Implemetation of Continuos Integration
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Author: Mayur Gupta (mayurgpt07@gmail.com)
+Maintainer: Mayur Gupta <mayurgpt07@gmail.com>
+Description: Understand the concepts of Continuous integration and its benefits 
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Suggests: 
     testthat (>= 2.1.0)
-URL: https://github.com/mayurgpt07/CompediumPackage
-BugReports: https://github.com/mayurgpt07/CompediumPackage/issues
+URL: https://github.com/mayurgpt07/DATA-598-WI20-week-7
+BugReports: https://github.com/mayurgpt07/DATA-598-WI20-week-7/issues
