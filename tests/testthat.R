@@ -1,4 +1,4 @@
-library(testthat)
-library(CompediumPackage)
+require(testthat)
+require(CompediumPackage)
 
 test_check("CompediumPackage")
