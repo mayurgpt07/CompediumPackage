@@ -1,10 +1,10 @@
 #' Function to add two numbers
 #'
-#'@param x
-#'@param n
+#'@param x First number
+#'@param n Second number
 #'
 #'
-#' @return
+#' @return a number
 #' @export
 #'
 #' @examples
@@ -16,10 +16,10 @@ plus_n <- function(x,n) {
 
 #' Function to multiply numbers
 #'
-#' @param x
-#' @param n
+#' @param x First number
+#' @param n Second number
 #'
-#' @return
+#' @return a number
 #' @export
 #'
 #' @examples
