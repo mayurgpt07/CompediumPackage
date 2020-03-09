@@ -15,7 +15,8 @@ Depends:
     R (>= 3.6.0)
 Suggests: 
     knitr,
-    rmarkdown
+    rmarkdown,
+    testthat (>= 2.1.0)
 VignetteBuilder: knitr
 Date: 2020-02-15
 RoxygenNote: 6.1.1
