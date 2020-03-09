@@ -16,5 +16,3 @@ Suggests:
 VignetteBuilder: knitr
 URL: https://github.com/mayurgpt07/DATA-598-WI20-week-7
 BugReports: https://github.com/mayurgpt07/DATA-598-WI20-week-7/issues
-RoxygenNote: 7.0.2
-Roxygen: list(markdown = TRUE)
