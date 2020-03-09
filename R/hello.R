@@ -1,30 +1,30 @@
 #' Function to add two numbers
 #'
-#'@param x an integer or double
-#'@param n an integer or double
+#'@param x
+#'@param n
 #'
 #'
-#' @return a number
+#' @return
 #' @export
 #'
 #' @examples
 #' plus_n(2,3)
-#' plus_n(3,3)
+#' plus_n("2","3")
 plus_n <- function(x,n) {
   return(x + n)
 }
 
 #' Function to multiply numbers
 #'
-#' @param x an integer or double
-#' @param n an integer or double
+#' @param x
+#' @param n
 #'
-#' @return a number
+#' @return
 #' @export
 #'
 #' @examples
 #' multiply_n(2,3)
-#' multiply_n(3,3)
+#' multiply_n("2","3")
 multiply_n <-function(x,n) {
   return(x*n)
 }
