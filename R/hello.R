@@ -9,7 +9,7 @@
 #'
 #' @examples
 #' plus_n(2,3)
-#' plus_n("2","3")
+#' plus_n(2,3)
 plus_n <- function(x,n) {
   return(x + n)
 }
@@ -24,7 +24,7 @@ plus_n <- function(x,n) {
 #'
 #' @examples
 #' multiply_n(2,3)
-#' multiply_n("2","3")
+#' multiply_n(2,3)
 multiply_n <-function(x,n) {
   return(x*n)
 }
