@@ -1,18 +1,25 @@
 Package: CompediumPackage
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Understanding package making
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <mayurgpt07@gmail.com>
+Author@R: person("Mayur", "Gupta", 
+                  email = "mayurgpt07@gmail.com", 
+                  role = c("aut", "cre", "cph"),
+                  comment = c(ORCID = "0000-0001-9139-5519"))
+Maintainer: Mayur Gupta <mayurgpt07@gmail.com>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+Imports:
+  dplyr (>= 0.8.3)
+Depends: 
+    R (>= 3.6.0)
 Suggests: 
     knitr,
-    rmarkdown,
-    testthat (>= 2.1.0)
+    rmarkdown
 VignetteBuilder: knitr
+Date: 2020-02-15
+RoxygenNote: 6.1.1
 URL: https://github.com/mayurgpt07/DATA-598-WI20-week-7
-BugReports: https://github.com/mayurgpt07/DATA-598-WI20-week-7/issues
