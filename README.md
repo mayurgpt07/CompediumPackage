@@ -2,8 +2,8 @@
 # CompediumPackage
 
 <!-- badges: start -->
-[![R build status](https://github.com/mayurgpt07/CompediumPackage/workflows/R-CMD-check/badge.svg)](https://github.com/mayurgpt07/CompediumPackage/actions)
-[![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mayurgpt07/CompediumPackage/master?urlpath=rstudio)
+[![R build status](https://github.com/mayurgpt07/DATA-598-WI20-week-7/workflows/R-CMD-check/badge.svg)](https://github.com/mayurgpt07/DATA-598-WI20-week-7/actions)
+[![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mayurgpt07/DATA-598-WI20-week-7/master?urlpath=rstudio)
 <!-- badges: end -->
 
 The goal of CompediumPackage is to understand how to use CI with R
