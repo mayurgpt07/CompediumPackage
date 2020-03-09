@@ -1,3 +1,4 @@
+library(testthat)
 testthat::test_that("Function multiply_n()", {
   testthat::expect_equal(multiply_n(2,3), 6)
 })
