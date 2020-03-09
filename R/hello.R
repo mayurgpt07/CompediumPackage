@@ -15,11 +15,11 @@
 
 #' Title
 #'
-#'@param x
-#'@param n
+#'@param x an integer or double
+#'@param n an integer or double
 #'
 #'
-#' @return
+#' @return a number
 #' @export
 #'
 #' @examples
@@ -31,10 +31,10 @@ plus_n <- function(x,n) {
 
 #' Title
 #'
-#' @param x
-#' @param n
+#' @param x an integer or double
+#' @param n an integer or double
 #'
-#' @return
+#' @return a number
 #' @export
 #'
 #' @examples
